@@ -1,0 +1,20 @@
+{
+    "token": "Your token here",
+    "prefix": "-",
+    "game": "Em desenvolvimento",
+    "embed": {
+        "color": "#ff5b5b",
+        "footer": "By Mota"
+    },
+    "administrators": [
+        "242809867264327681",
+        "339154577809080323"
+    ],
+    "notifications": {
+        "1": "\n\nNão ajudaram no crescimento do servidor hoje! Chateada. \n\n Por favor ajudem a comunidade no crescimento cumprindo pelo menos a meta diária recomendada, \n Caso fiquem 3 dias sem ajudar seus cargos staffs serão revogados automaticamente \n\n Meta Diária: 2 invites \n\n Meta mínima para manter o cargo: 10 invites semanais",
+        "2": "Teste2",
+        "3": "Teste3",
+        "4": "Teste4",
+        "5": "Teste5"
+    }
+}

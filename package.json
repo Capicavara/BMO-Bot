@@ -1,0 +1,42 @@
+{
+  "name": "discordeconomybot",
+  "version": "1.0.0",
+  "description": "A very simple bot with an economy system using the Discord.js API",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/DiscordEconomyBot.git"
+  },
+  "author": "Androz#2091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/DiscordEconomyBot/issues"
+  },
+  "homepage": "https://github.com/Androz2091/DiscordEconomyBot#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "bluebird": "^3.7.2",
+    "cron": "^1.8.2",
+    "discord.js": "^11.4.2",
+    "express": "^4.17.1",
+    "get-pixels": "^3.3.2",
+    "gif-creation-service": "0.0.2",
+    "gifencoder": "^2.0.1",
+    "gm": "^1.23.1",
+    "html-to-gif": "0.0.4",
+    "image-plucker": "^0.1.1",
+    "image-size": "^0.8.3",
+    "lodash": "^4.17.19",
+    "ms": "^2.1.1",
+    "phantomjs": "^2.1.7",
+    "png-file-stream": "^1.2.1",
+    "quick.db": "github:Androz2091/quick.db",
+    "sqlite3": "^5.0.0",
+    "system-commands": "^1.1.7",
+    "utf8": "^3.0.0",
+    "wkhtmltoimage": "^0.1.5"
+  }
+}
